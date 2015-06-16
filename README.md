@@ -2,5 +2,5 @@
 
 To build run
 ````
-docker build --file=Dockerfile --rm=true -t top-php-5.6-apache .
+docker build --file=Dockerfile --rm=true -t tophackathon/php-5.6-apache .
 ````
